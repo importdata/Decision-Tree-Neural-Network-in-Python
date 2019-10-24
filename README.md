@@ -1,5 +1,5 @@
 # Decision-Tree-Neural-Network-in-Python
-# Please navigate to the link provided below if you can't open .ipynb file
+Please navigate to the link provided below if you can't open .ipynb file
 https://nbviewer.jupyter.org/github/kotexan/Decision-Tree-Neural-Network-in-Python/blob/master/Machine_Learning_Assignment_2.ipynb
 
 About Dataset:
