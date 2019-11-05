@@ -10,3 +10,7 @@ Tasks:
 1. Took random sample of 100 instances out of each label (1,000 instances in total). 
 2. Applied Decision Tree and Multi-Layer Perceptron methods on the whole dataset as training dataset, and calculated the training and test accuracy for each method.
 3. Applied k-fold cross validation using the sampled dataset generated in task 1. Performed the k-fold cross validation using the following values: k=2, and k=4.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+PDF File
+- It represents how Decision Tree and Candidate Elimination algorithms work. 
